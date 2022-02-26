@@ -1,0 +1,17 @@
+.section-new {
+  padding-left: 64px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-right: 64px;
+}
+
+.container-1200 {
+  margin-left: 10, 500px;
+  margin-right: 10, 500px;
+}
+.section-new {
+  background-color: #d8bbff;
+}
+.c1 {
+  background-color: #c8e7ff;
+}
